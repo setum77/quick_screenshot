@@ -23,6 +23,6 @@ for %%P in (%PACKAGES%) do (
 
 echo Все пакеты установлены.
 echo Запуск сервиса скриншотов...
-python C:\cmd\quick_screenshot.py
+python quick_screenshot.py
 
 pause
