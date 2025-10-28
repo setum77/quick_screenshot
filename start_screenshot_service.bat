@@ -1,5 +1,6 @@
 @echo off
 chcp 65001 >nul
+title Cервис скриншотов
 
 echo Проверка необходимых Python-пакетов...
 
